@@ -7,7 +7,6 @@ Back-end developer
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [gabrielg737@gmail.com](mailto:gabrielg737@gmail.com)
 * 🚀  I'm currently working on [Marpetplace](http://github.com/gabrielgrun/marpetplace)
-* 🧠  I'm learning AWS
 
 ### Skills
 
